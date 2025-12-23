@@ -41,7 +41,7 @@ public class TelaLogin extends javax.swing.JFrame {
         setTitle("Royal Palece - Tela Login");
         setResizable(false);
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/HotelLogo_230x200.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/Hotelimg.jpg"))); // NOI18N
         jLabel1.setText("jLabel1");
 
         jLabel2.setText("Login:");
@@ -97,7 +97,7 @@ public class TelaLogin extends javax.swing.JFrame {
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jButton2)
                     .addComponent(jButton1))
-                .addContainerGap(70, Short.MAX_VALUE))
+                .addContainerGap(79, Short.MAX_VALUE))
         );
 
         pack();
